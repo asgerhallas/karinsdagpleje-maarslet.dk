@@ -1,0 +1,6 @@
+- marker valgte menupunkt
+- indsæt portræt
+- lav flere sliders
+- faq subtitle skal ikke brydes
+- portræt skal stå længere oppe og afsluttes med en tekst overgang til værdierne
+- menuen skal føre til de rigtige punkter
