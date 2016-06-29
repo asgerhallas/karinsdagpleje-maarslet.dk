@@ -1,6 +1,5 @@
 - marker valgte menupunkt
 - indsæt portræt
 - lav flere sliders
-- faq subtitle skal ikke brydes
 - resterende tekst til faq
 - portræt kan deles i to - en til hver side? og med to billeder?
