@@ -2,6 +2,5 @@
 - indsæt portræt
 - lav flere sliders
 - faq subtitle skal ikke brydes
-- portræt skal stå længere oppe og afsluttes med en tekst overgang til værdierne
-- menuen skal føre til de rigtige punkter
 - resterende tekst til faq
+- portræt kan deles i to - en til hver side? og med to billeder?
